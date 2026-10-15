@@ -1,168 +1,59 @@
 {
-        "name": "Subnautica Theme🌊",
-        "description": "What is a beginning without an end?",
-        "authors": [
-                {
-                        "name": "Mix",
-                        "id": "950475730674925678"
-                }
-        ],
-        "spec": 2,
-        "semanticColors": {
-                "HEADER_PRIMRARY": [
-                        "#152238",
-                        "#152238",
-                        "#152238"
-                ],
-                "HEADER_SECONDARY": [
-                        "#BBBCC0",
-                        "#BBBCC0",
-                        "#BBBCC0"
-                ],
-                "TEXT_LINK": [
-                        "#B7D9E2",
-                        "#B7D9E2",
-                        "#B7D9E2"
-                ],
-                "TEXT_NORMAL": [
-                        "#FEFFFD",
-                        "#FEFFFD",
-                        "#FEFFFD"
-                ],
-                "TEXT_MUTED": [
-                        "#A3A6AB",
-                        "#A3A6AB",
-                        "#A3A6AB"
-                ],
-                "INTERACTIVE_NORMAL": [
-                        "#FEFFFD",
-                        "#FEFFFD",
-                        "#FEFFFD"
-                ],
-                "INTERACTIVE_HOVER": [
-                        "#0E151B",
-                        "#0E151B",
-                        "#0E151B"
-                ],
-                "INTERACTIVE_ACTIVE": [
-                        "#FFFFFF",
-                        "#FFFFFF",
-                        "#FFFFFF"
-                ],
-                "BACKGROUND_PRIMRARY": [
-                        "#131b22",
-                        "#131b22",
-                        "#131b22"
-                ],
-                "BACKGROUND_SECONDARY": [
-                        "#222c32",
-                        "#222c32",
-                        "#222c32"
-                ],
-                "BACKGROUND_SECONDARY_ALT": [
-                        "#202d34",
-                        "#202d34",
-                        "#202d34"
-                ],
-                "BACKGROUND_TERTIARY": [
-                        "#192327",
-                        "#192327",
-                        "#192327"
-                ],
-                "BACKGROUND_ACCENT": [
-                        "#0ebc84",
-                        "#0ebc84",
-                        "#0ebc84"
-                ],
-                "BACKGROUND_MOBILE_SECONDARY": [
-                        "#141b22",
-                        "#141b22",
-                        "#141b22"
-                ],
-                "BACKGROUND_FLOATING": [
-                        "#121c22",
-                        "#121c22",
-                        "#121c22"
-                ],
-                "BACKGROUND_MOBILE_PRIMARY": [
-                        "#121c22",
-                        "#121c22",
-                        "#121c22"
-                ],
-                "BACKGROUND_MODIFIER_HOVER": [
-                        "#121c22",
-                        "#121c22",
-                        "#121c22"
-                ],
-                "BACKGROUND_MODIFIER_SELECTED": [
-                        "#08684c",
-                        "#08684c",
-                        "#08684c"
-                ],
-                "BACKGROUND_MODIFIER_ACCENT": [
-                      "#131b22",
-                      "#131b22",
-                      "#131b22"  
-                ],
-                "CHANNEL_ICON": [
-                        "#84989f",
-                        "#84989f",
-                        "#84989f"
-                ],
-                "SCROLLBAR_THIN_THUMB": [
-                        "#838b8e",
-                        "#838b8e",
-                        "#838b8e"
-                ],
-                "SCROLLBAR_THIN_TRACK": [
-                        "#838b8e",
-                        "#838b8e",
-                        "#838b8e"
-                ],
-                "SCROLLBAR_AUTO_THUMB": [
-                        "#838b8e",
-                        "#838b8e",
-                        "#838b8e"
-                ],
-                "SCROLLBAR_AUTO_TRACK": [
-                        "#838b8e",
-                        "#838b8e",
-                        "#838b8e"
-                ],
-                "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-                        "#858b92",
-                        "#858b92",
-                        "#858b92"
-                ],
-                "SPOILER_HIDDEN_BACKGROUND": [
-                        "#292e31",
-                        "#292e31",
-                        "#292e31"
-                ],
-                "BACKGROUND_NESTED_FLOATING": [
-                        "#121c22",
-                        "#121c22",
-                        "#121c22"
-                ]
-
-        },
-        "rawColors": {
-                "BRAND_260": "#005d4b",
-                "BRAND_500": "#005d4b",
-                "BRAND_560": "#5fcbba",
-                "GREEN_360": "#0a5943",
-                "RED_400": "#0ebc85",
-                "YELLOW_300": "#0dbc86",
-                "PRIMARY_100": "#ffffff",
-                "PRIMARY_600": "#131b22",
-                "PRIMARY_630": "#131b22",
-                "PRIMARY_800": "#131c22",
-                "PRIMARY_700": "#131c22"
-        },
-        "background": {
-                "blur": 0,
-                "url": "https://cdn.discordapp.com/attachments/1494596737397166140/1560251821887324160/Untitled110_20261015142329.png?ex=6ad2093e&is=6ad0b7be&hm=94a679b84fae9060cf68c35cd1283e46fbfe5654456ec3b6c7c4b91824b4d0b0&",
-                "alpha": 1,
-                "color": "#005d4b"
-        }
+  "name": "Subnautica Theme🌊",
+  "description": "What is a beginning without an end?",
+  "authors": [
+    {
+      "name": "Mix",
+      "id": "950475730674925678"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMRARY": ["#E6FBFF", "#E6FBFF", "#E6FBFF"],
+    "HEADER_SECONDARY": ["#9FC9D1", "#9FC9D1", "#9FC9D1"],
+    "TEXT_LINK": ["#5FE3F0", "#5FE3F0", "#5FE3F0"],
+    "TEXT_NORMAL": ["#E4F7F5", "#E4F7F5", "#E4F7F5"],
+    "TEXT_MUTED": ["#7FA8AE", "#7FA8AE", "#7FA8AE"],
+    "INTERACTIVE_NORMAL": ["#B5E4E6", "#B5E4E6", "#B5E4E6"],
+    "INTERACTIVE_HOVER": ["#FFFFFF", "#FFFFFF", "#FFFFFF"],
+    "INTERACTIVE_ACTIVE": ["#FFB347", "#FFB347", "#FFB347"],
+    "BACKGROUND_PRIMRARY": ["#04141C", "#04141C", "#04141C"],
+    "BACKGROUND_SECONDARY": ["#072330", "#072330", "#072330"],
+    "BACKGROUND_SECONDARY_ALT": ["#082936", "#082936", "#082936"],
+    "BACKGROUND_TERTIARY": ["#020D13", "#020D13", "#020D13"],
+    "BACKGROUND_ACCENT": ["#1FD6C1", "#1FD6C1", "#1FD6C1"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#061C27", "#061C27", "#061C27"],
+    "BACKGROUND_FLOATING": ["#030F16", "#030F16", "#030F16"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#04141C", "#04141C", "#04141C"],
+    "BACKGROUND_MODIFIER_HOVER": ["#0A3342", "#0A3342", "#0A3342"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#0E5A63", "#0E5A63", "#0E5A63"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#0B2D3A", "#0B2D3A", "#0B2D3A"],
+    "CHANNEL_ICON": ["#4FB8C4", "#4FB8C4", "#4FB8C4"],
+    "SCROLLBAR_THIN_THUMB": ["#1E7F8C", "#1E7F8C", "#1E7F8C"],
+    "SCROLLBAR_THIN_TRACK": ["#051A24", "#051A24", "#051A24"],
+    "SCROLLBAR_AUTO_THUMB": ["#1E7F8C", "#1E7F8C", "#1E7F8C"],
+    "SCROLLBAR_AUTO_TRACK": ["#051A24", "#051A24", "#051A24"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#5C8F96", "#5C8F96", "#5C8F96"],
+    "SPOILER_HIDDEN_BACKGROUND": ["#0B2A36", "#0B2A36", "#0B2A36"],
+    "BACKGROUND_NESTED_FLOATING": ["#041821", "#041821", "#041821"]
+  },
+  "rawColors": {
+    "BRAND_260": "#0E7C86",
+    "BRAND_500": "#17B8B0",
+    "BRAND_560": "#5FE3D0",
+    "GREEN_360": "#2E9E6B",
+    "RED_400": "#FF6B4A",
+    "YELLOW_300": "#FFB347",
+    "PRIMARY_100": "#E4F7F5",
+    "PRIMARY_600": "#04141C",
+    "PRIMARY_630": "#031017",
+    "PRIMARY_800": "#072330",
+    "PRIMARY_700": "#051B26"
+  },
+  "background": {
+    "blur": 0,
+    "url": "https://cdn.discordapp.com/attachments/1494596737397166140/1560251821887324160/Untitled110_20261015142329.png?ex=6ad2093e&is=6ad0b7be&hm=94a679b84fae9060cf68c35cd1283e46fbfe5654456ec3b6c7c4b91824b4d0b0&",
+    "alpha": 1,
+    "color": "#04141C"
+  }
 }
