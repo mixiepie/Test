@@ -1,0 +1,168 @@
+{
+        "name": "Subnautica Theme🌊",
+        "description": "What is beginning without and end?",
+        "authors": [
+                {
+                        "name": "Mix",
+                        "id": "950475730674925678"
+                }
+        ],
+        "spec": 2,
+        "semanticColors": {
+                "HEADER_PRIMRARY": [
+                        "#152238",
+                        "#152238",
+                        "#152238"
+                ],
+                "HEADER_SECONDARY": [
+                        "#BBBCC0",
+                        "#BBBCC0",
+                        "#BBBCC0"
+                ],
+                "TEXT_LINK": [
+                        "#B7D9E2",
+                        "#B7D9E2",
+                        "#B7D9E2"
+                ],
+                "TEXT_NORMAL": [
+                        "#FEFFFD",
+                        "#FEFFFD",
+                        "#FEFFFD"
+                ],
+                "TEXT_MUTED": [
+                        "#A3A6AB",
+                        "#A3A6AB",
+                        "#A3A6AB"
+                ],
+                "INTERACTIVE_NORMAL": [
+                        "#FEFFFD",
+                        "#FEFFFD",
+                        "#FEFFFD"
+                ],
+                "INTERACTIVE_HOVER": [
+                        "#0E151B",
+                        "#0E151B",
+                        "#0E151B"
+                ],
+                "INTERACTIVE_ACTIVE": [
+                        "#FFFFFF",
+                        "#FFFFFF",
+                        "#FFFFFF"
+                ],
+                "BACKGROUND_PRIMRARY": [
+                        "#131b22",
+                        "#131b22",
+                        "#131b22"
+                ],
+                "BACKGROUND_SECONDARY": [
+                        "#222c32",
+                        "#222c32",
+                        "#222c32"
+                ],
+                "BACKGROUND_SECONDARY_ALT": [
+                        "#202d34",
+                        "#202d34",
+                        "#202d34"
+                ],
+                "BACKGROUND_TERTIARY": [
+                        "#192327",
+                        "#192327",
+                        "#192327"
+                ],
+                "BACKGROUND_ACCENT": [
+                        "#0ebc84",
+                        "#0ebc84",
+                        "#0ebc84"
+                ],
+                "BACKGROUND_MOBILE_SECONDARY": [
+                        "#141b22",
+                        "#141b22",
+                        "#141b22"
+                ],
+                "BACKGROUND_FLOATING": [
+                        "#121c22",
+                        "#121c22",
+                        "#121c22"
+                ],
+                "BACKGROUND_MOBILE_PRIMARY": [
+                        "#121c22",
+                        "#121c22",
+                        "#121c22"
+                ],
+                "BACKGROUND_MODIFIER_HOVER": [
+                        "#121c22",
+                        "#121c22",
+                        "#121c22"
+                ],
+                "BACKGROUND_MODIFIER_SELECTED": [
+                        "#08684c",
+                        "#08684c",
+                        "#08684c"
+                ],
+                "BACKGROUND_MODIFIER_ACCENT": [
+                      "#131b22",
+                      "#131b22",
+                      "#131b22"  
+                ],
+                "CHANNEL_ICON": [
+                        "#84989f",
+                        "#84989f",
+                        "#84989f"
+                ],
+                "SCROLLBAR_THIN_THUMB": [
+                        "#838b8e",
+                        "#838b8e",
+                        "#838b8e"
+                ],
+                "SCROLLBAR_THIN_TRACK": [
+                        "#838b8e",
+                        "#838b8e",
+                        "#838b8e"
+                ],
+                "SCROLLBAR_AUTO_THUMB": [
+                        "#838b8e",
+                        "#838b8e",
+                        "#838b8e"
+                ],
+                "SCROLLBAR_AUTO_TRACK": [
+                        "#838b8e",
+                        "#838b8e",
+                        "#838b8e"
+                ],
+                "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+                        "#858b92",
+                        "#858b92",
+                        "#858b92"
+                ],
+                "SPOILER_HIDDEN_BACKGROUND": [
+                        "#292e31",
+                        "#292e31",
+                        "#292e31"
+                ],
+                "BACKGROUND_NESTED_FLOATING": [
+                        "#121c22",
+                        "#121c22",
+                        "#121c22"
+                ]
+
+        },
+        "rawColors": {
+                "BRAND_260": "#005d4b",
+                "BRAND_500": "#005d4b",
+                "BRAND_560": "#5fcbba",
+                "GREEN_360": "#0a5943",
+                "RED_400": "#0ebc85",
+                "YELLOW_300": "#0dbc86",
+                "PRIMARY_100": "#ffffff",
+                "PRIMARY_600": "#131b22",
+                "PRIMARY_630": "#131b22",
+                "PRIMARY_800": "#131c22",
+                "PRIMARY_700": "#131c22"
+        },
+        "background": {
+                "blur": 0,
+                "url": "https://cdn.discordapp.com/attachments/1494596737397166140/1560235890054275192/a9be219b91b6b8540ead6be07aa86883.jpg?ex=6ad1fa67&is=6ad0a8e7&hm=a4d4e21eee2e429caa06eb6ddb558e5cdc4394ac8fd128937e8fdd71b8c9de30&",
+                "alpha": 1,
+                "color": "#005d4b"
+        }
+}
