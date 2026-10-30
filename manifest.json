@@ -1,0 +1,13 @@
+{
+	"id": "apollo-theme",
+	"name": "Apollo Theme",
+	"description": "Holy aura",
+	"authors": [
+		{
+			"name": "Mix",
+			"id": "950475730674925678"
+		}
+	],
+	"version": "1.2",
+	"main": "bundle.json"
+}
